@@ -1,0 +1,62 @@
+Initial log joint probability = -1039.35
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99        275602     0.0623744       13338.1           1           1      124   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199        275884    0.00639562       4088.96      0.6399      0.6399      243   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     299        276159   0.000394223       2937.62           1           1      353   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399        276292    0.00980278        2810.9           1           1      474   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499        276411     0.0011626       1083.76      0.4487      0.4487      590   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     599        276484     0.0019076       2209.24           1           1      702   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     699        276592    0.00163904       3324.45      0.2495      0.2495      816   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     799        276665     0.0345844       3606.91           1           1      934   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     899        276711    0.00251141       1895.34           1           1     1046   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     999        276718    0.00216473       1275.77           1           1     1158   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1099        276732   0.000272341       1233.16      0.1993      0.1993     1276   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1199        276741   0.000295134        1381.2      0.8782      0.8782     1384   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1299        276747     0.0112757       2531.81           1           1     1489   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1399        276844    0.00864607       9348.58      0.5641      0.5641     1605   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1499        276877    0.00261261       695.029      0.5504      0.5504     1715   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1599        276886    0.00214184       848.685           1           1     1828   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1699        276890    0.00209317       1413.39      0.1634      0.7805     1941   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1799        276895    0.00304415       2642.09           1           1     2060   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1899        276898   0.000227619       360.383           1           1     2176   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1999        276900   0.000721553        546.54           1           1     2290   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    2099        276901   0.000310773       627.979      0.5247      0.5247     2400   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    2199        276903   6.65493e-05       437.221           1           1     2515   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    2231        276904   3.55169e-06       181.352   2.035e-08       0.001     2605  LS failed, Hessian reset 
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+Metrics for forecasting
+
+
+Root Mean Squared error is: 
+250.12993124685568
+
+
+Mean Absolute error is: 
+196.85343656539283
+
+
+Mean Absolute percentage error is: 
+9.406492437274313
