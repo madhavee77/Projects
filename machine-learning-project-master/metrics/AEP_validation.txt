@@ -1,0 +1,50 @@
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+
+Mean Squared error is:6787383.499449232
+Mean Absolute error is:2082.0541852746464
+Mean Absolute percentage error is: 14.18%
+Accuracy: 85.82%
+
+
+#still need to fig out what is this
+Initial log joint probability = -716.576
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99        207840   0.000818971       16114.7      0.1749      0.1749      124   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199        208297    0.00224661       2797.51           1           1      236   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     299        208505     0.0195504       13296.1      0.9793      0.9793      350   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399        208642    0.00489965       2628.36       1.107      0.1107      463   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499        208725    0.00940541       2220.71           1           1      576   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     599        208806    0.00136441       1438.58      0.9865      0.9865      690   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     699        208893     0.0094051        1207.5           1           1      805   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     799        208925    0.00375126       1195.23           1           1      923   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     899        208944     0.0144763       2514.44           1           1     1030   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     999        208968    0.00262847       1572.92           1           1     1146   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1099        208978    0.00553124       299.688           1           1     1254   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1199        208981   0.000764755       2029.88           1           1     1362   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1299        208983   0.000954083       307.611           1           1     1473   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1399        208989    0.00298664       438.753           1           1     1584   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1499        208993    0.00385918       734.821           1           1     1698   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1589        208998   3.38749e-05       501.291   1.931e-07       0.001     1853  LS failed, Hessian reset 
+    1599        208998   0.000108838       285.586           1           1     1863   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1699        209001   0.000361197       446.033           1           1     1973   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1799        209003   0.000100291       200.986           1           1     2082   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1878        209005   6.44022e-05       93.5864           1           1     2172   
